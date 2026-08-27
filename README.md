@@ -1,4 +1,4 @@
-Actualmente soy estudiante de 2do año de la **Tecnicatura en Programación**. Me apasiona crear aplicaciones web eficientes, enfocándome en resolver problemas reales y construir tanto interfaces modernas como la lógica detrás de ellas.
+Actualmente soy estudiante de 2do año de la **Tecnicatura en Programación**
 
 ### 🛠️ Stack Tecnológico
 * **Frontend:** React, TypeScript, Tailwind CSS, Vite.
