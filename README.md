@@ -1,16 +1,20 @@
-## Hi there 👋
+Actualmente soy estudiante de 2do año de la **Tecnicatura en Programación**. Me apasiona crear aplicaciones web eficientes, enfocándome en resolver problemas reales y construir tanto interfaces modernas como la lógica detrás de ellas.
 
-<!--
-**dylangig/dylangig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Stack Tecnológico
+* **Frontend:** React, TypeScript, Tailwind CSS, Vite.
+* **Backend & Datos:** Python, Cloudflare Workers, MySQL.
+* **Herramientas:** Git.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+
+* **[📸 Melina Diaz Fotografía](https://melinadiazfotografia.com.ar):** Portfolio profesional en producción. Desarrollado con React, TypeScript, Tailwind y backend serverless en Cloudflare Workers. [*(Ver código fuente)*](https://github.com/dylangig/Melinadiaz_Fotografia)
+* **🎓 UniFica (UNaB):** Sistema de gestión para el Centro de Estudiantes. Trabajé en equipo como Desarrollador Frontend maquetando vistas sobre arquitectura MVC *(PHP, MySQL, Docker, Tailwind)*.
+* **[📚 Sistema de Biblioteca](https://github.com/Dasein369/tpi_pa2026_biblioteca):** Proyecto académico enfocado en algoritmos y persistencia de datos locales (JSON) utilizando Python.
+
+---
+
+### 📫 Contacto
+
+* **Email:** Dylangigenadiaz@gmail.com
