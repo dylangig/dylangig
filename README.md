@@ -1,6 +1,6 @@
 Actualmente soy estudiante de 2do año de la **Tecnicatura en Programación**
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack
 * **Frontend:** React, TypeScript, Tailwind CSS, Vite.
 * **Backend & Datos:** Python, Cloudflare Workers, MySQL.
 * **Herramientas:** Git.
